@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Demo
-- [Movieflix](https://imgur.com/gallery/MuEvS6J)
+- [Movieflix](https://imgur.com/MuEvS6J)
